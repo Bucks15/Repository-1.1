@@ -1,2 +1,2 @@
 # Repository-1.1
-THIS IS MY FIRST PROJECT
+This Repositiory includes my practice Projects which i develpoed with the help of HTML and CSS.
